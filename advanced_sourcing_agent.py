@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 from dotenv import load_dotenv
 import time
-
+import streamlit as st
 # Import the SmartEvaluator
 from smart_evaluator import SmartEvaluator
 
@@ -419,9 +419,8 @@ class AdvancedSourcingAgent:
         
         # API configuration
         self.search_url = "https://www.googleapis.com/customsearch/v1"
-        self.api_key = os.getenv("GOOGLE_API_KEY")  # Changed from GOOGLE_SEARCH_API_KEY
-        self.search_engine_id = os.getenv("SEARCH_ENGINE_ID")  # Changed from GOOGLE_SEARCH_ENGINE_ID
-    
+        self.api_key =st.secrets["GOOGLE_API_KEY"]  # Changed from GOOGLE_SEARCH_API_KEY
+        self.search_engine_id = st.secrets["SEARCH_ENGINE_ID"]
     def search_candidates(self, job_description: str, num_candidates: int = 10) -> Dict[str, Any]:
         """Enhanced candidate search with smart evaluation"""
         print(f"🚀 Starting advanced candidate search for {num_candidates} candidates...")

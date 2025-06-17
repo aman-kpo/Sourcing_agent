@@ -1,0 +1,21 @@
+[
+    {
+        "name": "John Doe",
+        "url": "https://www.linkedin.com/in/johndoe/",
+        "location": "Halifax, Nova Scotia",
+        "experience": "5 years",
+        "skills": ["TypeScript", "Python", "DevOps", "CICD", "Jenkins", "GitLab CI/CD", "CircleCI", "Terraform", "CloudFormation", "Docker", "AWS", "Azure", "Agile development methodologies", "Jest", "Pytest"],
+        "email": "johndoe@email.com"
+    },
+    {
+        "name": "Jane Smith",
+        "url": "https://www.linkedin.com/in/janesmith/",
+        "location": "Halifax, Nova Scotia",
+        "experience": "3 years",
+        "skills": ["TypeScript", "Python", "DevOps", "CICD", "Jenkins", "GitLab CI/CD", "CircleCI", "Terraform", "CloudFormation", "Docker", "AWS", "Azure", "Agile development methodologies", "Jest", "Pytest"],
+        "email": "janesmith@email.com"
+    },
+    ...
+]
+
+Note: The above answer is just a sample and actual results may vary based on the input parameters and LinkedIn data.

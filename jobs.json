@@ -1,0 +1,52 @@
+[
+  {
+    "organization": "Rimot.io.",
+    "website": "https://bluegrid.energy/",
+    "role": "DevOps Developer",
+    "description": "Rimot io  is looking for a DevOps developer. Work will be on Tyscript and Python codebases. CICD, piepline development and deployment.",
+    "location": "Halifax, Nova Scotia",
+    "start_date": "June 30, 2024",
+    "category": "Full-Time",
+    "current_date": "2025-06-16"
+  },
+  {
+    "organization": "Acme Corp",
+    "website": "https://acme.com/",
+    "role": "Senior Data Engineer",
+    "description": "Acme Corp is building real-time analytics pipelines.",
+    "location": "Remote",
+    "start_date": "July 15, 2024",
+    "category": "Full-Time",
+    "current_date": "2025-06-16"
+  },
+  {
+    "organization": "IVO",
+    "website": "ivo.ai",
+    "role": "Sr DevOps Engineer",
+    "description": "Why Ivo?\n\nContract negotiation is the most time-consuming, costly, and difficult component of the contract lifecycle\u2014and it hasn\u2019t gotten much easier since the days of fax machines.\n\n\nLarge language models have unlocked the ability to solve many contract negotiation problems at scale. Our product is best-in-market (with an ~80% trial win rate) and rapidly embedding itself into the lives of its users.\n\n\nWhat we're looking for\n\nWe\u2019re looking for a seasoned DevOps engineer to:\nOwn and shape the future of our environment. We still have a relatively minimal footprint, giving you a lot of freedom to design the system.\nManage dozens, hundreds, thousands (?) of customer deployments. Customers are cagey about their contracts, so each customer gets their own containers, database, VPC, etc. It\u2019s a lot to orchestrate.\nInstrument our system so we understand performance bottlenecks, errors, etc.\nAggregate metrics/logs/health checks into slick dashboards and pager alerts\nBe on call and lead infrastructure related incidents\nGet our CI/CD system running super quickly (it currently takes ~12 minutes, boo)\n\n\nIn addition to helping us run a solid, high-performance distributed system, we\u2019d love someone who\u2019s as excited about LLMs as we are. You\u2019d be deeply embedded into the engineering team and encouraged to push the DevOps frontier by, for example:\nDeveloping on-the-fly LLM evals to monitor the real-time accuracy of our responses\nBuilding autonomous agents to detect and diagnose production issues before they become major fires\nAny other useful stuff you can think of\n\n\nAbout you\n\nPassionate about orchestration and Infrastructure as Code. We\u2019re currently using Pulumi but open to change if you have strong opinions here.\nWant to move quickly while striving for best practices.\nRelentlessly resourceful.\nCan write code, preferably JavaScript.\nExperienced with either Azure and or GCP\nDeeply knowledgeable about computers. Linux systems, containers, SQL databases, cloud infrastructure, etc.",
+    "location": "San Francisco",
+    "start_date": "ASAP",
+    "category": "Full-Time",
+    "current_date": "2025-06-16"
+  },
+  {
+    "organization": "",
+    "website": "",
+    "role": "",
+    "description": "",
+    "location": "",
+    "start_date": "June 16, 2025",
+    "category": "Full-Time",
+    "current_date": "2025-06-16"
+  },
+  {
+    "organization": "Ivo",
+    "website": "ivo.ai",
+    "role": "Sr Devops Engineer",
+    "description": "Why Ivo?\n\nContract negotiation is the most time-consuming, costly, and difficult component of the contract lifecycle\u2014and it hasn\u2019t gotten much easier since the days of fax machines.\n\n\nLarge language models have unlocked the ability to solve many contract negotiation problems at scale. Our product is best-in-market (with an ~80% trial win rate) and rapidly embedding itself into the lives of its users.\n\n\nWhat we're looking for\n\nWe\u2019re looking for a seasoned DevOps engineer to:\nOwn and shape the future of our environment. We still have a relatively minimal footprint, giving you a lot of freedom to design the system.\nManage dozens, hundreds, thousands (?) of customer deployments. Customers are cagey about their contracts, so each customer gets their own containers, database, VPC, etc. It\u2019s a lot to orchestrate.\nInstrument our system so we understand performance bottlenecks, errors, etc.\nAggregate metrics/logs/health checks into slick dashboards and pager alerts\nBe on call and lead infrastructure related incidents\nGet our CI/CD system running super quickly (it currently takes ~12 minutes, boo)\n\n\nIn addition to helping us run a solid, high-performance distributed system, we\u2019d love someone who\u2019s as excited about LLMs as we are. You\u2019d be deeply embedded into the engineering team and encouraged to push the DevOps frontier by, for example:\nDeveloping on-the-fly LLM evals to monitor the real-time accuracy of our responses\nBuilding autonomous agents to detect and diagnose production issues before they become major fires\nAny other useful stuff you can think of\n\n\nAbout you\n\nPassionate about orchestration and Infrastructure as Code. We\u2019re currently using Pulumi but open to change if you have strong opinions here.\nWant to move quickly while striving for best practices.\nRelentlessly resourceful.\nCan write code, preferably JavaScript.\nExperienced with either Azure and or GCP\nDeeply knowledgeable about computers. Linux systems, containers, SQL databases, cloud infrastructure, etc.",
+    "location": "san francisco",
+    "start_date": "June 16, 2025",
+    "category": "Full-Time",
+    "current_date": "2025-06-16"
+  }
+]

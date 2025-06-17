@@ -1,0 +1,36 @@
+**About the Organization**
+
+BlueGrid is a leading vessel-to-grid company that turns marine vessels into virtual power plants for utility-grade energy storage. They work at the convergence of two net-zero megatrends: Electric Marine Transportation and Net Zero Electricity Grids. BlueGrid's mission is to create a sustainable path to net zero by reducing reliance on fossil fuels, creating energy resiliency for communities, and accelerating the adoption of electric vessels.
+
+**About the Job**
+
+Rimot.io is looking for a DevOps Developer to work on TypeScript and Python codebases, focusing on CICD, pipeline development, and deployment. This is a full-time position, starting on June 30, 2024, in Halifax, Nova Scotia.
+
+**Responsibilities**
+
+* Design, develop, and maintain CICD pipelines for Rimot.io's applications
+* Develop and maintain infrastructure as code using Python and Terraform
+* Collaborate with cross-functional teams to ensure seamless deployment of applications
+* Troubleshoot and resolve issues with CICD pipelines and deployments
+* Participate in code reviews and contribute to the improvement of the codebase
+* Stay up-to-date with the latest developments in DevOps and infrastructure automation
+
+**Requirements**
+
+* Bachelor's degree in Computer Science or a related field
+* 2+ years of experience in DevOps, infrastructure automation, or a related field
+* Strong expertise in TypeScript and Python programming languages
+* Experience with CICD tools such as Jenkins, GitLab CI/CD, or CircleCI
+* Knowledge of infrastructure as code tools such as Terraform or CloudFormation
+* Excellent problem-solving skills and attention to detail
+* Strong communication and collaboration skills
+
+**Good to Have**
+
+* Experience with containerization using Docker
+* Knowledge of cloud platforms such as AWS or Azure
+* Familiarity with Agile development methodologies
+* Experience with testing frameworks such as Jest or Pytest
+* Certification in DevOps or a related field
+
+Note: The job advertisement is written based on the information gathered from the search and the provided job requirements.
